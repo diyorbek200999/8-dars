@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+width: 800px;
+height: 800px;
+    background: linear-gradient( 130deg, blueviolet ,deeppink 50%,deeppink 100% );
+}
+.row1{
+    width: 650px;
+    height: 500px;
+    
+background-color: blue;
+   
+}
+.btn{
+width: 300px;
+height: 30px;
+background-color: dodgerblue;
+color: black;
+margin: 15px;
+}
+.form{
+   width: 300px;
+   height: 30px; 
+margin: 15px;
+}
+.row2{
+    margin: 100px;
+width: 350px;
+height: 250px;
+background-color: white;
+
+}
+p{
+    padding-top: 30px;
+    margin: 20px;
+    color: dodgerblue;
+}
